@@ -1,0 +1,19 @@
+{
+  "name": "practice-node-project",
+  "version": "0.0.1",
+  "description": "Node.js项目学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnXi029/practice-node-project.git"
+  },
+  "author": "JohnXi029",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnXi029/practice-node-project/issues"
+  },
+  "homepage": "https://github.com/JohnXi029/practice-node-project#readme"
+}
